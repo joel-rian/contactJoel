@@ -15,9 +15,9 @@ If you'd like to take a look at my LinkedIn profile, it's right below.
 <br>
 <a href="www.linkedin.com/in/yerijhon-rian">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![Joel M. Stats](https://github-readme-stats.vercel.app/api?username=contactJoel)](https://github.com/anuraghazra/github-readme-stats)
+[![Joel M. Stats](https://github-readme-stats.vercel.app/api?username=joel-rian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=contactJoel)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-rian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **contactJoel/contactJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
